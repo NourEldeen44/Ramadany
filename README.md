@@ -1,4 +1,4 @@
-# ramadany
+# Ramadany
 
 A Flutter project for ramadan.
 this app is free use open source code.
@@ -21,6 +21,7 @@ super easy control.
  #### This App Was Developed By Dev: NourEldeen 
 
 
-- [Dev: NourEldeen نورالدين](nourtech2021@gmail.com)
+- [Dev: NourEldeen نورالدين](https://github.com/NourEldeen44)
+- [nourtech2021@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrgCqqBqDhjzPdfhXKpGSQvMKqxdFNkWVnhKBXSbgxQqFTrLVcClgfqRWzCxrwrKvkSvzg)
 
 
